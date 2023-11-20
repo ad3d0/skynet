@@ -6,7 +6,7 @@
         "HideIconAfter": 3600,
         "IconURL": "https://i.imgur.com/t1TGSBb.png",
         "DisableIconText": true,
-        "IconPosition": 3,
+        "IconPosition": 0,
         "IconTextColor": 2,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
