@@ -26,12 +26,14 @@
       },
       {
         "tab2": {
-          "layout": 2,
+          "layout": 3,
           "buttontext": "Server Rules",
           "title1": "1. Gameplay rules",
           "title2": "2. Chat rules",
+          "title3": "3. Interaction with the administration",
           "text1": "[Available Soon]",
           "text2": "[Available Soon]",
+          "text3": "[Available Soon]",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
