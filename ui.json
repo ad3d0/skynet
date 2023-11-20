@@ -1,0 +1,57 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 4,
+        "HideIcon": false,
+        "HideIconAfter": 3600,
+        "IconURL": "https://i.imgur.com/YhLElL4.png",
+        "DisableIconText": true,
+        "IconPosition": 3,
+        "IconTextColor": 2,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 1
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 2,
+          "buttontext": "Home & Rules",
+          "title1": "La Zone",
+          "title2": "Rules",
+          "text1": "Welcome to La Zone, a PVE Server (soon a cluster when new maps get released)!\n\n ADMINS:\n- Seah\n- Ferrero Rogé\n- Grain\n\n RATES:\n- Taming, Harvest x5\n- EXP x2\n- Breeding BOOSTED\n\n\nDue to removing EngramUnlocker you may have negative engram points\nAsk an admin to get a FREE Mindwipe Tonic!\n I also recommend you to join the discord",
+          "text2": " 1. Basics.. respect others players and their stuff, no insult, shaming, harrassment!\n\n 2. One base per tribe, no matter what\n\n 3. Don't let traps & pen in wilderness !\n\n 4. Report issues by submiting a Ticket on Discord! \n\n 5. Don't put your base on POI (Explorer Note, Resources Spot, Drop spots...etc) \n\n 6. This is a PVE server, no stealing nor killing ! \n\n\n Most importantly Enjoy Playing with us :D",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Point Shop",
+          "title1": "Creatures",
+          "title2": "Items",
+          "text1": "[Available Soon]",
+          "text2": "[Available Soon]",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab3": {
+          "layout": 1,
+          "buttontext": "Commands",
+          "title1": "Basics",
+          "text1": "[Available Soon]",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Join the Discord",
+          "url": "https://discord.gg/JQqfs5yqk4"
+        }
+      }
+    ]
+  }
+}
