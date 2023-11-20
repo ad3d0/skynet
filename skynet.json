@@ -17,8 +17,8 @@
         "tab1": {
           "layout": 2,
           "buttontext": "Welcome to Skynet",
-          "title1": "Welcome to Skynet Gamers - Tranquility Island!",
-          "title2": "Server Settings",
+          "title1": "<TextStyle.Orange>Welcome to Skynet Gamers - Tranquility Island!</>",
+          "title2": "<TextStyle.Orange>Server Settings</>",
           "text1": " Currently we are hosting one The Island map, we will be adding more maps to the cluster as soon as devs release those.\n\n Server mods:\n\n   WBUI2\n   - Provides interface you are looking at right now.\n   Super Spyglass Plus\n   - Spyglass with extended functionality. On our servers it will let you see lvl, gender, torpor and tamig food info on wild creatures, and stat numbers and more on your tamed creatures.",
           "text2": " - x2 harvesting for all resources.\n - x2 Kill/Harvest/Special experience multiplier.\n - x4 on all breeding timers. x2 cuddle imprint ammount.\n - x2 stack size for most resources.\n - Max wild dino level - 150.\n - x5 maximum structures allowed on platforms.\n - All type of fuel does last twice longer.\n - x1 on all spoil timers and on crops growth speed.\n - No collision building is turned on.\n - Wild dino pick up is turned on.\n - Player and non-flyier speed leveling is enabled.\n - Building and flying in caves is denied.\n - Building in supply frop location is enabed, those will drop on top of your sturture if you build there.\n - Offline protection for player bases and creatures (when they fix it).\n - Structure and dino decay is temporary disabled and will be enabled when we add Scorchead Earth map to the cluster.\n - DISABLED - All player buildings and creatures will be removed after player was offline for 14 days or more.\n - DISABLED - All tribe buildings and creatures will be removed after all member of tribe was offline for 14 days or more.",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
@@ -27,10 +27,10 @@
       {
         "tab2": {
           "layout": 3,
-          "buttontext": "Server Rules",
-          "title1": "1. Gameplay rules",
-          "title2": "2. Chat rules",
-          "title3": "3. Interaction with the administration",
+          "buttontext": "<TextStyle.Red>Server Rules</>",
+          "title1": "<TextStyle.Red>1. Gameplay rules</>",
+          "title2": "<TextStyle.Red>2. Chat rules</>",
+          "title3": "<TextStyle.Red>3. Interaction with the administration</>",
           "text1": " 1.01 - It is forbidden to use any cheats, hacks, bugs, and any other non-gaming methods of obtaining benefits. In case of violation - permanent ban.\n 1.02 - Do not block access to rich rare resource locations or rare creature spawn locations.\n 1.03 - Do not block access to caves.\n 1.04 - Do not leave your tames inside other player base without asking permission from them.\n 1.05 - No kiting/droping wild creatures to other player bases. In case of violation - permanent ban.\n 1.06 - No griefing is allowed under any circumstances.\n 1.07 - Do not build too close to other player base, leave them some space for future expansion.\n 1.08 - Avoid building on new player spawn locations, if you did, free passage from your base should be provided.\n 1.09 - Building on obelisks are allowed only if it does not block acces to it for any size of tames. No builds allowed on the obelisk spawn platform.",
           "text2": " 2.01 - Do not insult other players on sexual, racial, national or any other basis.\n 2.02 - Spam is not allowed.\n 2.03 - Any advertising for non Skynet projects is prohibited.\n 2.04 - Disagreement with another player? Keep your drama out of our public chats, take it private.\n 2.05 - Please avoid any political and religious discussions in general chat.\n 2.06 - Keep the chat and Language respectable.",
           "text3": " 3.01 - Admins are the same people as you, do not be afraid of them.\n 3.02 - Please do not demand anything from the admin, we are people and players just like you. Any politely made request will certainly be considered.\n 3.03 - Do not beg for free stuff from admins.\n 3.04 - The administration reserves the right to evaluate the seriousness of the violation and to choose the applicable punishment.",
