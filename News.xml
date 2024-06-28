@@ -11,85 +11,17 @@ No Donors, Forts or Markets will be available at this time.
 	<entry>
 		<date>2024-06-28 12:00:00Z</date>
 		<title>Firts batch of QOL updates and more!</title>
-		<text> -
+		<text>Today changes:
+- Expanded player inventory from 45 to 60 slots.
+- Added 45 different dye colors. All dyes can be found in loot or bought from traders, just like vanilla dyes.
+- Supporter buffs are back
+
+IMPORTANT information about City Resets:
+- Starting today City resets will happen live, that means server will not run a restart for those.
+- Server will give a 30 minutes countdown in chat before city resets.
+- If you happen to be running a quest when city rest happens it might reset it for you, same way as if you log out during active quest.
+- City resets will reset all marked regions to the day 1 state, it should not wipe your vehicles or remove your player deadt bag.
 		</text>
 		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
-	</entry>
-	<entry>
-		<date>2023-06-29 17:00:00Z</date>
-		<title>SOMME MORE TEST</title>
-		<text>Alpha 21 is now available to everyone. A20 savegames and worlds are not compatible.
-		
-		TFP wants to extend a big thank you to all our fans for supporting the game and a happy 4th of July!</text>
-		<link>https://7daystodie.com/a21-official-release-notes/</link>
-	</entry>
-	<entry>
-		<date>2023-06-25 16:00:00Z</date>
-		<title>EVEN MORE TEST</title>
-		<text>Alpha 21 will be out soon and we wanted to remind everyone, that Alpha 20 savegames will not be compatible with Alpha 21 for Steam or Gamepass users.</text>
-	</entry>
-	<entry>
-		<date>2023-06-09 17:00:00Z</date>
-		<title>DAMN IT'S TEST AGAIN</title>
-		<text>Alpha 21 Streamer Weekend Starts Now!
-
-We are proud to announce that the ‘Alpha 21 Streamer Weekend’ is finally here. 
-We will be running the Streamer Weekend event from Friday, June 9th through Sunday, June 11th.
-Expect the public experimental on Steam to follow sometime Monday afternoon June 12th.
-
-Many will be streaming all weekend and giving away Free Game Keys. Check their channels for their upcoming weekend schedules. These are being broadcast in many languages so scroll down to find yours.</text>
-		<link>https://7daystodie.com/a21-streamer-weekend/</link>
-	</entry>
-	<entry>
-		<date>2023-04-20 17:00:00Z</date>
-		<title>Alpha 20.7 Stable</title>
-		<text>A21 is coming soon. We want to patch an issue we found during testing. This patch only addresses a save game compatibility error that Steam users would encounter when returning to A20 after a session in A21.
-
-This patch does not contain any content you may have seen in an A20.7 Twitch build.
-
-Please remember A20 save games will not work with A21 for Steam or Microsoft users, you will have to start a new game.</text>
-		<link>https://community.7daystodie.com/topic/31721-a207-b1-stable/</link>
-	</entry>
-	<entry>
-		<date>2022-08-16 17:30:00Z</date>
-		<title>Alpha 20.6 Stable</title>
-		<text>We have another stable patch for Alpha 20. 
-
-With the overwhelming majority of the team working full steam on A21, we took some time to merge fixes and changes to A20 for your enjoyment.</text>
-		<link>https://community.7daystodie.com/topic/29703-a206-b9-stable/</link>
-	</entry>
-	<entry>
-		<date>2022-05-16 13:14:15Z</date>
-		<title>Alpha 20.5 Stable</title>
-		<text>Hello everyone!
-
-Today we give you 20.5 stable with fixes for crashes and also a fix for the drone that caused issues in MP.
-
-We are aware of the following regarding this build:
-- We are seeing reports of the Discord overlay potentially crashing the game, please read here. Please scroll to "Overlay Issues".
-- EOS issue with macOS Monterey, you can still play without EAC until this is fixed by EOS.
-- Party voice for macOS does not currently work and needs to be fixed by EOS in a future update.
-- Party voice currently not supported on Linux, waiting for a fix by EOS.</text>
-		<link>https://community.7daystodie.com/topic/28820-alpha-205-stable/</link>
-	</entry>
-	<entry>
-		<date>2022-02-01 13:14:15Z</date>
-		<title>Alpha 20.1 Stable</title>
-		<text>Today we are releasing A20.1 b6 as stable.
-
-We have updates and fixes to POIs, a fix for the drone dupe, a fix to make achievements work again, balance changes and much more.
-
-Savegames should be compatible with A20 b238.
-
-
-We hope everyone enjoys A20.1 b6!</text>
-		<link>https://7daystodie.com/alpha-20-1-stable-is-out/</link>
-	</entry>
-	<entry>
-		<date>2021-12-21 13:14:15Z</date>
-		<title>Alpha 20 stable Release!</title>
-		<text>We are happy to release our Alpha 20.0 b238 stable version to all of you in time for the holidays!
-Alpha 20's release brings a truckload of new features with it, if you have not seen them yet, check them out in the full release notes.</text>
-		<link>https://7daystodie.com/a20-official-release-notes/</link>
 	</entry>
 </news>
