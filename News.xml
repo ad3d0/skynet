@@ -24,4 +24,19 @@ IMPORTANT information about City Resets:
 		</text>
 		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
 	</entry>
+	<entry>
+		<date>2024-06-30 09:00:00Z</date>
+		<title>Server restart time changes</title>
+		<text>Good day Skynet people! To improve server performance we are adding more server restarts during evening and early night time.
+Additionally server will now warn about server restarts 30 minutes ahead instead of 15 minutes.
+New server restart time:
+ - 4AM CST
+ - 7AM CST
+ - 1PM CST
+ - 7PM CST
+ - 10PM CST
+ - 1AM CST
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
 </news>
