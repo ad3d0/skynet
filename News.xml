@@ -47,8 +47,7 @@ New server restart time:
 
 - Added Skynet Table Saw. It can be crafted in workbench and all custom items we add will be available  to craft there.
 - Added ability to craft almost every door you encounter in the world. All custom doors are available in 11 different colors and will have increased hit points (5000-9000).
-Note: Since for some reason TFP decided that all their doors should go reinforced with ugly planks by default, to override that all doors when placed will have 4999/5000 HP. As a bonus if you like that reinforced look, you can just repair that 1 missing hp and planks will be placed back.
-- Added working Wood Burning Stove, Old Stove and Modern stove.
+Note: Since for some reason TFP decided that all their doors should go reinforced with ugly planks by default, to override that all doors when placed will have 4999/5000 HP.
 - Added working Wall oven (can be place inside a wall like wall safe) and working Gas Range, all three are available in 3 colors - White, Grey and Black.
 - All above listed working appliances do act as campfires and can be crafted in Skynet Table Saw (crafted at workbench) under Miscellaneous/Decor category.
 		</text>
