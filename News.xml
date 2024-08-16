@@ -100,4 +100,15 @@ P.S. Also, inventory slot locking feature should work as intended now.
 		</text>
 		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
 	</entry>
+	<entry>
+		<date>2024-08-16 16:00:00Z</date>
+		<title>Zombie spawn adjustments.</title>
+		<text>
+Today we did implemented couple tweaks and changes aimed to reduce zombie lag:
+ - Reduced max amount of zombies that can be spawned on the server at the same time.
+ - Disabled mod that was overriding horde night spawns, we want to give vanilla spawner another try.
+ - Installed Improved Hordes mod, that one will take over all the wilderness zombie and animal spawns improving overall zombie behavior and performance.
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
 </news>
