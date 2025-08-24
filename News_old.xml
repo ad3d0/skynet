@@ -1,0 +1,152 @@
+<news>
+	<entry>
+		<date>2024-06-24 23:00:00Z</date>
+		<title>7 days to die V1.0 Experimental is out!!!</title>
+		<text>All 3 our servers updated to 1.0 experimental and ready for playing!
+Please remember this is experimental and some things you know and love wont be available, we will continue to fix and update as we go.
+No Donors, Forts or Markets will be available at this time.
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/6941797558605229581</link>
+	</entry>
+	<entry>
+		<date>2024-06-28 16:00:00Z</date>
+		<title>First batch of QOL updates and more!</title>
+		<text>Today changes:
+- Expanded player inventory from 45 to 60 slots.
+- Added 45 different dye colors. All dyes can be found in loot or bought from traders, just like vanilla dyes.
+- Supporter buffs are back
+
+IMPORTANT information about City Resets:
+- Starting today City resets will happen live, that means server will not run a restart for those.
+- Server will give a 30 minutes countdown in chat before city resets.
+- If you happen to be running a quest when city rest happens it might reset it for you, same way as if you log out during active quest.
+- City resets will reset all marked regions to the day 1 state, it should not wipe your vehicles or remove your player death bag.
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
+	<entry>
+		<date>2024-06-30 09:00:00Z</date>
+		<title>Server restart time changes</title>
+		<text>Good day Skynet people! To improve server performance we are adding more server restarts during evening and early night time.
+Additionally server will now warn about server restarts 30 minutes ahead instead of 15 minutes.
+			
+New server restart time:
+ - 4AM CST
+ - 7AM CST
+ - 1PM CST
+ - 7PM CST
+ - 10PM CST
+ - 1AM CST
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
+	<entry>
+		<date>2024-07-03 13:00:00Z</date>
+		<title>Oooh, Shinies!</title>
+		<text>Today we are adding first batch of craftable items previously available only from creative menu, and more.
+
+- Added Skynet Table Saw. It can be crafted in workbench and all custom items we add will be available  to craft there.
+- Added ability to craft almost every door you encounter in the world. All custom doors are available in 11 different colors and will have increased hit points (5000-9000).
+- Added working Wood Burning Stove, Old Stove and Modern stove.
+- Added working Wall oven (can be place inside a wall like wall safe) and working Gas Range, all three are available in 3 colors - White, Grey and Black.
+- All above listed working appliances do act as campfires and can be crafted in Skynet Table Saw (crafted at workbench) under Miscellaneous/Decor category.
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
+	<entry>
+		<date>2024-07-24 19:00:00Z</date>
+		<title>We are going stable!</title>
+		<text>
+Good Day Skyfam!
+
+As you guys know Stable release of 7 days to die should hit Jully 25th! 
+
+We will wipe all 3 servers, but because no-one wants to wipe on a random Thursday, we shall do it Saturday, that is generally most folks off time...and it gives us a bit more time to work out our final changes. 
+
+We will turn on SKYNET PURGE (pvp) Friday, July 26, 2024 1PM CST for those who have a need to blood can get their fill before starting over!
+
+Thank you all for playing with us!!!
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
+	<entry>
+		<date>2024-07-27 20:00:00Z</date>
+		<title>New season started!</title>
+		<text>
+Few changes:
+ - Shop is back up with a few items removed, and a few items added, We made the decision to remove Vehicles and Guns, The reason for this is game progression, its meant to be a bit slower and we don't wanna tamper with that right now, maybe in the future they will be added back.
+ - This is a big one, LCB size has been reduced they are now 25 X 25 of what they were BUT everyone gets 5, Donors amount is also adjusted to match so nothing is lost just more options given to yall. T1- 9 LCBS, T2 - 13 LCBS, T3 - 17 LCBs, T4 - 21 LCBs
+The reason behind this is mostly so we can test the new Market Idea and also to give yall more options for outposts or Horde bases or mining spots.
+ - Please be considerate and give your neighbors some space the dead zone was reduced for smaller claims, this is a large map, no need to butt up against your neighbors.
+ - Market
+So as you will notice when you spawn Market is now HUGE, players can get get 1 spot to build their Very own shop and decorate it as desired!!! (this is why the 5 LCBs each not 4, 1 must be used for your Market Spot.
+Please make sure to run a chat command /marketrules and get familiar with the rules.
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
+	<entry>
+		<date>2024-07-28 19:00:00Z</date>
+		<title>Skynet Trader Termination of Employment</title>
+		<text>
+
+Tired of Traders locking their doors?? Keeping you from those sweet sweet dukes??
+
+TFP made it so only 5 traders can be loaded at the same time, so when y'all are inside or nearby 5 different traders anyone trying to go in the 6th one will be kicked out.
+
+We has DA Solution!!! Nuke the Dupe traders, now you will notice only 5 total traders in their Own Biomes. 
+More walking but no more locked doors! Happy Trading!
+
+P.S. Also, inventory slot locking feature should work as intended now.
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
+	<entry>
+		<date>2024-08-16 16:00:00Z</date>
+		<title>Zombie spawn adjustments.</title>
+		<text>
+Today we did implemented couple tweaks and changes aimed to reduce zombie lag:
+ - Reduced max amount of zombies that can be spawned on the server at the same time.
+ - Disabled mod that was overriding horde night spawns, we want to give vanilla spawner another try.
+ - Installed Improved Hordes mod, that one will take over all the wilderness zombie and animal spawns improving overall zombie behavior and performance.
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
+	<entry>
+		<date>2024-08-26 16:00:00Z</date>
+		<title>Decoration machines are here!</title>
+		<text>
+Decoration machine has finally been added! 
+
+Bear statues, pool tables and strung up corpses ohhhh my! Over 200 Items for you all to deck out your bases!!
+Head on over to Market Center and they are just to the right of dear sweet Rekt! 
+Happy Building Skyfam!
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
+	<entry>
+		<date>2024-08-27 10:00:00Z</date>
+		<title>Hoarder's Delight update!</title>
+		<text>
+Following our deco vending machine addition, we are bringing back our custom craftable storage containers.
+			
+- Added over 200 craftable storage container variants. Those include various bookshelves, ammunition, liquor, food and med piles, assortment of gun and equipment racks, weapon and ammo display cases and many more.
+- All containers are lockable and can be crafted from their own category in the Skynet Table Saw.
+- All containers are grouped in 18 shape blocks, just hold R to see all available variants.
+- Added custom paintable storage, you choose a shape from shape menu and then you can paint it like any other block.
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
+	<entry>
+		<date>2024-12-25 10:00:00Z</date>
+		<title>Merry Christmas Skyfam!</title>
+		<text>
+First id like to apologize, from all of us Fab 4 for our absence, real life took hold of us all and we have not had much time for extra activities out side of that.
+
+We have WIPED the 7 Days to die Servers!!! Valhalla, Midgard and Viking are now up and ready to join!!!
+
+Market will remain the same large town as it was last season, tho the rules are much more relaxed this go around.
+You can type /marketrules in chat to review all current market rules.
+		</text>
+		<link>https://store.steampowered.com/news/app/251570/view/7160213079727903916</link>
+	</entry>
+</news>
