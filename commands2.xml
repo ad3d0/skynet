@@ -11,6 +11,12 @@
      &#x2F;HOME [B6A67B]NAME[-] ADD
            This will create home location named [B6A67B]NAME[-] at the location you were standing when executing command.
            Please note that name will be saved in lowercase, so NAME, Name, NaMe and etc - all will be saved as [B6A67B]name[-].
+
+     [B6A67B]Deleting your home location:	[-]	
+     &#x2F;HOME [B6A67B]NAME[-] DEL
+           This will remove home location named [B6A67B]NAME[-]. Use must use this if you wnat to "move" your home.
+           Please note that letter case for the name does not matter.
+           For example &#x2F;HOME [B6A67B]MyHOME[-] DEL is same as &#x2F;HOME [B6A67B]myhome[-] DEL
 		</text>
 		<link></link>
 	</entry>
