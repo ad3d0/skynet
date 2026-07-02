@@ -3,18 +3,17 @@
 		<date>2023-11-20 19:00:00Z</date>
 		<title></title>
 		<text>
-			
 [b]Home commands allow you to create and manage your own personal teleport locations anywhere on the map.[/b]
 [b]Everyone can set one home per player, supporter get extra homes depending on their tier.[-]
 			
      [B6A67B]Creating your home location:	[-]	
      &#x2F;HOME [B6A67B]NAME[-] ADD
            This will create home location named [B6A67B]NAME[-] at the location you were standing when executing command.
-           Please note that name will be saved in lowercase, so [B6A67B]MYHOME[-], [B6A67B]Myhome[-], [B6A67B]MyHome[-] and etc - all will be saved as [B6A67B]myhome[-].
+           Please note that name will be saved in lowercase, so [B6A67B]MYHOME[-], [B6A67B]Myhome[-], [B6A67B]MyHome[-] and etc. - all will be saved as [B6A67B]myhome[-].
 
      [B6A67B]Deleting your home location:	[-]	
      &#x2F;HOME [B6A67B]NAME[-] DEL
-           This will remove home location named [B6A67B]NAME[-]. You must use this if you wnat to "move" your home.
+           This will remove home location named [B6A67B]NAME[-]. You must use this if you want to "move" your home.
            Please note that letter case for the name does not matter.
            For example &#x2F;HOME [B6A67B]MyHOME[-] DEL is same as &#x2F;HOME [B6A67B]myhome[-] DEL
 
@@ -23,6 +22,9 @@
            This will teleport you to your named home location and create a [B6A67B]&#x2F;return[-](see general commands) location.
            Please note that letter case for the name does not matter.
            For example &#x2F;HOME [B6A67B]MyHOME[-] and &#x2F;HOME [B6A67B]myhome[-] will teleport you to the same location.
+			
+     &#x2F;LISTHOMES
+           This will print a list of your home locations and their corresponding coordinates.
 		</text>
 		<link></link>
 	</entry>
