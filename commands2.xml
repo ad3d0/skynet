@@ -8,9 +8,9 @@
 [b]Everyone can set one home per player, supporter get extra homes depending on their tier.[-]
 			
      Creating your home location:		
-     &#x2F;HOME [FF0000]NAME[-] ADD
-           This will create home location named [FF0000]NAME[-] at the location you were standing when executing command.
-           Please note that name will be saved in lowercase, so NAME, Name, NaMe and etc - all will be saved as [FF0000]name[-].
+     &#x2F;HOME [B6A67B]NAME[-] ADD
+           This will create home location named [B6A67B]NAME[-] at the location you were standing when executing command.
+           Please note that name will be saved in lowercase, so NAME, Name, NaMe and etc - all will be saved as [B6A67B]name[-].
 		</text>
 		<link></link>
 	</entry>
