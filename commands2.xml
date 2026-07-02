@@ -3,7 +3,10 @@
 		<date>2023-11-20 19:00:00Z</date>
 		<title></title>
 		<text>
-
+[b]Home commands allow you to create and manage your own personal teleport locations anywhere on the map.[/b]
+[b]Everyone can set one home per player, supporter get extra homes depending on their tier.[/b]
+	Creating your home location:		
+	&#x2F;home [FF0000]NAME[-] add 
 		</text>
 		<link></link>
 	</entry>
