@@ -7,7 +7,7 @@
 [b]Home commands allow you to create and manage your own personal teleport locations anywhere on the map.[/b]
 [b]Everyone can set one home per player, supporter get extra homes depending on their tier.[-]
 			
-     Creating your home location:		
+     [B6A67B]Creating your home location:	[-]	
      &#x2F;HOME [B6A67B]NAME[-] ADD
            This will create home location named [B6A67B]NAME[-] at the location you were standing when executing command.
            Please note that name will be saved in lowercase, so NAME, Name, NaMe and etc - all will be saved as [B6A67B]name[-].
